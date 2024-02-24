@@ -38,7 +38,7 @@ $$m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}$$
 > [!info] Conservation of momentum Example
 > A particle $P$ of mass $2$kg is moving with speed $3m/s$ on a smooth horizontal plane. Particle Q of mass $3kg$ is at rest on the plane. Particle $P$ collides with particle $Q$ and after collision $Q$ moves off with speed $\frac{7}{3}m/s$. 
 > 
-> <small> Taken from Edexcel Further Mechanics 1, Example 4 </small>
+> <small> Taken from Edexcel Further Mechanics 1, Chapter 1 Example 4 </small>
 
 
 
@@ -69,7 +69,10 @@ Both [[Impulse]] and [[Momentum]] are vectors, as a result you can write both th
 
 >[!question] Example
 >A particle of mass $0.2$kg is moving with the velocity $(10i-5j)m/s$ when it receives an impulse of $(3i-2j)Ns$. Find the new velocity of the particle.
+>
+> <small> Taken from Edexcel Further Mechanics 1, Chapter 1 Example 8 </small>
 >>[!todo]- Answer 
+>>
 >>Using the [[Impulse#Impulse momentum principle.|impulse momentum principle]], where $m=0.2$ and $u=(10i-5j)$ we can form the equation
 >>$$(3i-2j)=0.2v-0.2(10i-5j)$$
 >>$(3i-2j)=0.2v-(2i-j)$
@@ -77,5 +80,7 @@ Both [[Impulse]] and [[Momentum]] are vectors, as a result you can write both th
 >>$(25i-15j)=v$
 >>So the new velocity would be the vector v, $(25i-15j)$.
 
+> [!note]- Ripen's comments
+> Every time I see the word "vectors" in any topic I start sweating, I always expect it to be something like 3D vectors or worse, but it's always usually just 2D. There was a funny time in normal maths where we were covering vectors, and during the lesson I was super focused since I feel like vectors is my worst topic, however everything during the lesson was actually a breeze and I just expected worse then what was actually taught. I guess Core Pure 1 vectors just traumatised me that badly.
 
 
