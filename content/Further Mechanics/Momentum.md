@@ -2,14 +2,10 @@ The momentum of an object with mass $m$ moving at a velocity of $v$ is $mv$.
 - If the mass is in kg and velocity is m/s the unit of momentum will be kg m/s.
 - Momentum can also be measured in Newton Seconds, $Ns$, as kg m/s$^2$ is the unit for [[Force]], and taking out kg m/s$^2$ from kg m/s it becomes (kg m/s$^2$)s which is equal to $Ns$ 
 
-## $Momentum = Mass \times Velocity$
-### $Momentum = mv$ 
-
-
-
+<big> $Momentum = Mass \times Velocity$ </big>
+<big> $Momentum = mv$ </big>
 
 First example, 
-
 
 a) A cricket ball of Mass $400g$ is moving at $18m/s$,
 Find the magnitude of momentum.
@@ -27,5 +23,6 @@ Find the magnitude of momentum.
 As Newton's 3rd law states, when two bodies collide, each one exerts and equal and opposite force on the other. They must both exert an [[Impulse]] on the other of equal magnitude, but in opposing directions. 
 
 The changes of momentum are equal, but the direction is opposite, and as a result the changes of momentum cancel each other out, and the overall change is 0. 
-### Total momentum before impact = total momentum after impact
-
+<big>
+**Total momentum before impact = total momentum after impact**
+</big> 
