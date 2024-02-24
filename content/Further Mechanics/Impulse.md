@@ -16,5 +16,4 @@ I = mv-mu
 $$
 
 Impulse = final momentum - initial momentum
-Impulse = the change in momentum
-
+Hence impulse is the overall change in momentum.

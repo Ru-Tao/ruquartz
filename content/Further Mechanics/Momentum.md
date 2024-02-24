@@ -66,3 +66,16 @@ $$m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}$$
 
 # Momentum as a [[Vector]]
 Both [[Impulse]] and [[Momentum]] are vectors, as a result you can write both the [[Impulse#Impulse momentum principle.|Impulse momentum principle]] and the [[Momentum#Conservation of Momentum|conservation of momentum]] as vector equations. 
+
+>[!question] Example
+>A particle of mass $0.2$kg is moving with the velocity $(10i-5j)m/s$ when it receives an impulse of $(3i-2j)Ns$. Find the new velocity of the particle.
+>>[!todo]- Answer 
+>>Using the [[Impulse#Impulse momentum principle.|impulse momentum principle]], where $m=0.2$ and $u=(10i-5j)$ we can form the equation
+>>$$(3i-2j)=0.2v-0.2(10i-5j)$$
+>>$(3i-2j)=0.2v-(2i-j)$
+>>$(5i-3j)=0.2v$
+>>$(25i-15j)=v$
+>>So the new velocity would be the vector v, $(25i-15j)$.
+
+
+
