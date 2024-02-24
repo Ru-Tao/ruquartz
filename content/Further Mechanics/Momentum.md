@@ -63,3 +63,6 @@ $$m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}$$
 >> $I = (2)(-\frac{1}{2})-(2)(3)$
 >> $I = -7$
 >> So the impulse recieved by $P$ has a magnitude of $7Ns$. 
+
+# Momentum as a [[Vector]]
+Both [[Impulse]] and [[Momentum]] are vectors, as a result you can write both the [[Impulse#Impulse momentum principle.|Impulse momentum principle]] and the [[Momentum#Conservation of Momentum|conservation of momentum]] as vector equations. 

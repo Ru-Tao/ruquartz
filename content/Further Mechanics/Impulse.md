@@ -9,7 +9,8 @@ $$
 Time is measured in Seconds.</small>
 
 
-Using the form of $F = m(\frac{v-u}{t})$, impulse can also be given as $I = m(v-u)$ or more concisely, 
+Using the form of $F = m(\frac{v-u}{t})$, impulse can also be given as $I = m(v-u)$ or more concisely, this is known as the 
+##### Impulse momentum principle.
 $$
 I = mv-mu
 $$
