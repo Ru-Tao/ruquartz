@@ -84,3 +84,4 @@ Both [[Impulse]] and [[Momentum]] are vectors, as a result you can write both th
 > Every time I see the word "vectors" in any topic I start sweating, I always expect it to be something like 3D vectors or worse, but it's always usually just 2D. There was a funny time in normal maths where we were covering vectors, and during the lesson I was super focused since I feel like vectors is my worst topic, however everything during the lesson was actually a breeze and I just expected worse then what was actually taught. I guess Core Pure 1 vectors just traumatised me that badly.
 
 
+For worked examples see [[Mixed Exercise 1]].
