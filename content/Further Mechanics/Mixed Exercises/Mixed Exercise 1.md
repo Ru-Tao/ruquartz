@@ -31,6 +31,7 @@ Mixed exercise 1 taken from Edexcel Further Mechanics 1.
 >>$$14000=1200v$$
 >>$$\frac{14000}{1200}=v$$
 >>$$\frac{35}{3}=v$$
+>>So the final velocity before it hits the pile would be $\frac{35}{3}m/s.$
 >
 >The ground provides a constant resistance of 120000N to the motion of the pile driver.
 >c) Find the distance that the pile is driven into the ground before coming to a rest.
