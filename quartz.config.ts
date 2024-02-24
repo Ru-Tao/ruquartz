@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "ru-tao.github.io",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -26,28 +26,28 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-        },
-      },
-    },
+  lightMode: {
+    light: "#fbf1c7",
+    lightgray: "#f9f5d7",
+    gray: "#665c54",
+    darkgray: "#282828",
+    dark: "#9d0006",
+    secondary: "#af3a03",
+    tertiary: "#458588",
+    highlight: "rgba(189, 174, 147, 0.15)",
+  },
+  darkMode: {
+    light: "#282828",
+    lightgray: "#1d2021",
+    gray: "#bdae93",
+    darkgray: "#fbf1c7",
+    dark: "#cc241d",
+    secondary: "#d65d0e",
+    tertiary: "#d79921",
+    highlight: "rgba(168, 153, 132, 0.15);",
+  },
+},
+   },
   },
   plugins: {
     transformers: [
