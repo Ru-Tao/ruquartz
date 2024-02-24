@@ -2,8 +2,11 @@ The momentum of an object with mass $m$ moving at a velocity of $v$ is $mv$.
 - If the mass is in kg and velocity is m/s the unit of momentum will be kg m/s.
 - Momentum can also be measured in Newton Seconds, $Ns$, as kg m/s$^2$ is the unit for [[Force]], and taking out kg m/s$^2$ from kg m/s it becomes (kg m/s$^2$)s which is equal to $Ns$ 
 
-<big> $$Momentum = Mass \times Velocity$$ </big>
-$$Momentum = mv$$
+$$
+Momentum = Mass \times Velocity \newline 
+
+Momentum = mv
+$$
 
 First example, 
 
