@@ -2,8 +2,8 @@ The momentum of an object with mass $m$ moving at a velocity of $v$ is $mv$.
 - If the mass is in kg and velocity is m/s the unit of momentum will be kg m/s.
 - Momentum can also be measured in Newton Seconds, $Ns$, as kg m/s$^2$ is the unit for [[Force]], and taking out kg m/s$^2$ from kg m/s it becomes (kg m/s$^2$)s which is equal to $Ns$ 
 
-<big> $Momentum = Mass \times Velocity$ </big>
-<big> $Momentum = mv$ </big>
+<big> $$Momentum = Mass \times Velocity$$ </big>
+$$Momentum = mv$$
 
 First example, 
 
@@ -25,4 +25,6 @@ As Newton's 3rd law states, when two bodies collide, each one exerts and equal a
 The changes of momentum are equal, but the direction is opposite, and as a result the changes of momentum cancel each other out, and the overall change is 0. 
 <big>
 **Total momentum before impact = total momentum after impact**
+$$m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}$$
 </big> 
+
