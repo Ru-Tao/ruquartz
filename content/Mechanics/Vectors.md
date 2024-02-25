@@ -43,3 +43,19 @@ $$
 \begin{pmatrix} a \\ b \\ c \end{pmatrix}
 $$
 
+#### The magnitude of a vector
+- The magnitude of a vector is the overall size or "length" of a vector. 
+- It is often written in the form $|\vec{v}|$ where $\vec{v}$ is a vector.
+
+For a vector given in the from $\begin{pmatrix} a \\ b \\ c \end{pmatrix}$ or $(ai+bj+ck)$, we can find the magnitude of the vector using the equation:
+
+$$
+|\vec{v}|=\sqrt{a^2+b^2+c^2}
+$$
+or for a 2D vector with no C$\begin{pmatrix} a \\ b \\ c \end{pmatrix}$ or $(ai+bj+ck)$,  
+
+$$
+|\vec{v}|=\sqrt{a^2+b^2}
+$$
+
+![[Pasted image 20240225180549.png]]

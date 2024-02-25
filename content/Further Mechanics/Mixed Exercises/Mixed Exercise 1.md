@@ -399,4 +399,29 @@ a) Calculate the speed of P immediately after the collision.
 >>
 >>The resistance R could be modelled with varying speed.
 
+Question 9
+A cricket ball of mass $0.5kg$ is struck by a bat. Immediately before being struck the velocity of the bat is $(-25i)\text{m/s}$. Immediately after being struck the velocity of the ball is $(23i+20j)\text{m/s}$.
+Find the magnitude of magnitude exerted on the ball by the bat and the angle between the impulse and the direction i. 
 
+Answer
+
+- In this question velocity is given to us in [[Vectors#2D Vectors|vector notation]].
+- Despite this the formula for [[Impulse#Impulse momentum principle.|impulse]] remains the same.
+
+$$
+I=mv-mu
+$$
+
+$$
+I=0.5\begin{pmatrix}23\\ 20\end{pmatrix}-(0.5)\begin{pmatrix}-25\\ 0\end{pmatrix}
+$$
+
+$$
+I=0.5\begin{pmatrix}48\\ 20\end{pmatrix}
+$$
+
+$$
+I=\begin{pmatrix}24\\ 10\end{pmatrix}
+$$
+
+- Here we can use the formula for [[Vectors|the magnitude of the vector]].
