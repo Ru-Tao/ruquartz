@@ -243,3 +243,51 @@ a) Calculate the speed of P immediately after the collision.
 >> $$
 >> So the magnitude of the impulse of $P$ on $Q$ is $15000Ns$
 
+>[!question]+ Question 6
+>
+>A particle, $P$, of mass $1.5kg$ is moving along a straight horizontal line with speed $3m/s$. Another particle $Q$ of mass $2.5kg$ is moving in the opposite direction, along the same straight line with speed $4m/s$ The particles collide. Immediately after the collision the direction of motion of $P$ is reversed and its speed is $2.5m/s$.
+>a) Calculate the speed of Q immediately after the impact.
+>>[!todo]- Answer
+>>
+>>- Here to find the speed, or velocity, after the impact we can use the conservation of momentum.
+>>- We can assume particle $P$ to be moving in the direction $\rightarrow$.
+>>- Since particle $Q$ is moving in the opposite direction, $\leftarrow$ , the value of $u_2$ would be negative.
+>> For particle $P$: $m_1=1.5$ $u_1=3$ $v_1=-2.5$ 
+>> For particle $Q$: $m_2=2.5$ $u_2=-4$ $v_2=?$
+>> - We can plug these values into the equation:
+>>
+>>$$
+>>m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} 
+>>$$
+>>
+>>$$ 
+>>(1.5)(3) + (2.5)(-4) = (-2.5)(1.5) + (2.5)v_{2} 
+>>$$
+>>
+>>Rearranging the equation we are given $v_2=0.8m/s$.
+>
+>b) State whether or not the direction of motion of $Q$ is changed by the collision.
+>>[!todo]- Answer
+>>
+>>- The Direction of motion **has** changed.
+>>- This can be spotted as there was a change in sign between $u_2$ and $v_2$, meaning that the particle changed direction. 
+>
+>c) Calculate the magnitude of the impulse exerted by $Q$ on $P$.
+>> [!todo]- Answer
+>> 
+>>- Here like all previous impulse questions we can use the [[Impulse#Impulse momentum principle.|Impulse momentum formula]].
+>>
+>>$$ 
+>>I=mv-mu 
+>>$$
+>>
+>>$$ 
+>>I=(2.5)(0.8)-(2.5)(-4) 
+>>$$
+>>
+>>$$ 
+>>I=12Ns 
+>>$$
+>>So the magnitude of impulse exerted by $Q$ on $P$ is $12Ns$
+>>
+
