@@ -424,4 +424,47 @@ $$
 I=\begin{pmatrix}24\\ 10\end{pmatrix}
 $$
 
-- Here we can use the formula for [[Vectors|the magnitude of the vector]].
+- Here we can use the formula for [[Vectors#The magnitude of a vector|the magnitude of the vector]].
+
+$$
+|I|=\sqrt{24^2+10^2}
+$$
+
+$$
+|I|=26
+$$
+- To find the angle between the impulse and direction **i**, is just to find the angle between the impulse vector and the x axis.
+- We can create a triangle with a base of 10, 
+
+```tikz
+\begin{document}
+  \begin{tikzpicture}
+	\draw (0,0) node[anchor=north]{$A$}
+	  -- (12,0) node[anchor=north]{$C$}
+	  -- (12,5) node[anchor=south]{$B$}
+	  -- cycle;
+	\node[label={16} ] at (6,2.5) {};
+	\node[label={24} ] at (6,-1) {};
+	\node[label={10} ] at (12.5, 2) {};
+
+  \end{tikzpicture}
+\end{document}
+```
+
+
+
+
+
+
+$\mu=13.3$ and $\sigma^2=12.25$
+$X \textasciitilde  N(13.3, 12.25))$
+$H_0:\mu=13.3$
+$H_1:\mu<13.3$
+Significance level: 5%
+Sample size $= 50$
+Mean from the sample size = 12.48
+For a sample size of 50, the sample mean $\bar{X}$ can be modelled as 
+$\bar{X}\textasciitilde N(13.3,\frac{12.25}{50})$
+$P(X\leq12.48)=0.04879$ 
+$0.04879 < 0.05$, and is within the critical region, so we have enough evidence to reject $H_0$
+

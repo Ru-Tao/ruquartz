@@ -57,5 +57,3 @@ or for a 2D vector with no C$\begin{pmatrix} a \\ b \\ c \end{pmatrix}$ or $(ai+
 $$
 |\vec{v}|=\sqrt{a^2+b^2}
 $$
-
-![[Pasted image 20240225180549.png]]
