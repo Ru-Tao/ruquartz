@@ -158,3 +158,88 @@ Mixed exercise 1 taken from Edexcel Further Mechanics 1.
 >>Which solving gives the answer of 
 >>$s=36\text{m}$
 >>So the car moved $36\text{m}$ within the $2.4$ seconds.
+
+> [!question]+ Question 4
+>Two particles $A$ and $B$, of masses 0.2kg and 0.3kg respectively are free to move in a smooth horizontal groove. Initially $B$ is at rest and $A$ is moving towards $B$ with a speed of $4m/s$. After the impact the speed of $B$ is $1.5m/s$.
+>a) Find the speed of $A$ after the impact
+>>[!todo]- Answer
+>>
+>>- As we are given the masses of the two particles alongside the speed before and the speed after for $B$, we can use the [[Momentum#Conservation of Momentum|conservation of momentum]] formula to find the speed of $A$.
+>>- Assuming $A$ is moving in the direction $\rightarrow$.
+>>
+>>$$
+>>m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}
+>>$$
+>>
+>>$$
+>>m_1=0.2kg \quad m_2=0.3kg
+>>$$
+>>
+>>$$
+>>u_1=4m/s \quad u_2=0m/s
+>>$$
+>>
+>>$$
+>>v_1=?m/s \quad v_2=1.5m/s
+>>$$
+>>
+>>$$
+>>0.2(4) = 0.2v_{1} + 0.3(1.5)
+>>$$
+>>Rearranging the equation we can find $v_1$
+>>
+>>$$
+>>v_1=1.75m/s
+>>$$
+>>
+>>b) Find the magnitude of the impulse of B on A during the impact.
+>>- Here we just use the [[Impulse#Impulse momentum principle.|impulse formula]]. 
+>>$$
+>>I=mv-mu
+>>$$
+>>
+>>$$
+>>I=(0.2)(1.75)-(0.2)(4) \\
+>>I= -0.45Ns
+>>$$
+>>The overall magnitude of the impulse would be $0.45Ns$
+
+>[!question]+ Question 5
+>
+> A railway truck, $P$, of mass $2000kg$ is moving along a straight horizontal track with speed $10m/s$. The truck $P$ collides with truck $Q$ of a mass $3000kg$, which is at rest on the same track. Immediately after the collision, $Q$ moves with speed $5m/s$.
+a) Calculate the speed of P immediately after the collision.
+>> [!todo]- Answer
+>> 
+>> - Here was can use the [[Momentum#Conservation of Momentum|conservation of momentum formula]] to find the speed of P after collision, $v_2$.
+>> 
+>> $$
+>> m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}
+>> $$
+>> - $m_1=2000kg$ $m_2=3000kg$.
+>> - $u_1=10m/s$ $u_2=0$
+>> - $v_1=? v_2=5m/s$
+>> Plugging in these values into the formula we get
+>> 
+>> $$
+>> (2000)(10)=2000v_2+3000(5)
+>> $$
+>> 
+>> Rearranging the formula for $v_2$ we get
+>> 
+>> $$
+>> v_2=2.5m/s
+>>$$
+> 
+>b) Calculate the magnitude of the impulse exerted by $P$ on $Q$ during the collision.
+>>[!todo]- Answer
+>>
+>> - Here we use the [[Impulse#Impulse momentum principle.|impulse formula]] and plug in our previous values for $P$
+>> $$
+>> I=mv-mu
+>> $$
+>> $$
+>> I=(2000)(2.5)-(2000)(10)\\
+>> I=-15000Ns
+>> $$
+>> So the magnitude of the impulse of $P$ on $Q$ is $15000Ns$
+
