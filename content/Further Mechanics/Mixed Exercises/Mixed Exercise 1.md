@@ -326,45 +326,77 @@ a) Calculate the speed of P immediately after the collision.
 >>k=\frac{4}{5}
 >>$$
 
-Question 8
-A metal pin of mass $2kg$ is driven vertically into the ground by a blow from a sledgehammer of mass $10kg$. The hammer falls vertically on to the pin, its speed just before impact being $9m/s$. In a model of the situation it is assumed that, after the impact, the pin and the hammer stay in contact and move together before coming to rest.
-a) Find the speed of the pin immediately after impact.
-Answer
+> [!question]+ Question 8
+> A metal pin of mass $2kg$ is driven vertically into the ground by a blow from a sledgehammer of mass $10kg$. The hammer falls vertically on to the pin, its speed just before impact being $9m/s$. In a model of the situation it is assumed that, after the impact, the pin and the hammer stay in contact and move together before coming to rest.
+> a) Find the speed of the pin immediately after impact.
+> 
+>>[!todo]- Answer
+>> 
+>> - Here conservation of momentum can be used.
+>> - For the hammer, $m_1=10$ and $u_1=9$ 
+>> - For the pin, $m_2=2$ and $u_2=0$ 
+>> - For the left hand side of the equation, as both the pin and hammer move together, the mass would be $10+2$, and the speed of the combined object can be called $v$. 
+>> 
+>>$$
+>>m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}
+>>$$
+>> 
+>> $$
+>>(10)(9) = (12)(v)
+>>$$
+>>Solving for $v$ we can find, 
+>> 
+>> $$
+>> v=\frac{15}{2}
+>> $$
+>> So the speed of the pin immediately after impact would be $7.5m/s$.
+>
+>The pin moves $3cm$ into the ground before coming to rest. Assuming in this model the ground exerts a constant restive force of $R$ newtons as the pin is driven down.
+>
+> b) Find the value of R
+>
+>> [!todo]- Answer
+>> 
+>> - Here to find the value of the [[Force|force]], $R$, we can use the force formula, $F=ma$.
+>> - The force were looking for would be the $12(9.8)-R$ as $ma$ would be equal to the overall force of the equation.
+>> - However we need to firstly find the acceleration of the pin as it slows down. 
+>> - We can do this by forming a [[Equations of Motion#Equations|suvat]] equation using the values we do have.
+>> 
+>> $$
+>> s=0.03m \\
+>> u=7.5m/s \\
+>> v=0m/s \\
+>> a=? \\
+>> t=N/A
+>> $$
+>> $$
+>> v^2=u^2+2as
+>> $$
+>> $$
+>> 0=\frac{225}{4}+\frac{3}{50}a
+>> $$
+>> $$
+>>a=-\frac{1875}{2}
+>>$$
+>> So acceleration (or rather deceleration) in this case is $-937.5m/s^2$.
+>> - Now we have the mass and acceleration, we can plug in the values into the Force formula to find the overall force acting on the hammer and pin.
+>> 
+>> $$
+>>12(9.8)-R=(12)(-937.5)
+>>$$
+>> Rearranging to find R
+>> $12(9.8)-(12)(-937.5)=R$
+>> $117.6+11250=R$
+>> 
+>> $$
+>> R = 11367.6
+>> $$
+>> So the resisting force from the ground would be $11367.6N$. 
+>
+>c)State in one way which the model might be refined to be more realistic.
+>
+>>[!todo]- Answer
+>>
+>>The resistance R could be modelled with varying speed.
 
-- Here conservation of momentum can be used.
-- For the hammer, $m_1=10$ and $u_1=9$ 
-- For the pin, $m_2=2$ and $u_2=0$ 
-- For the left hand side of the equation, as both the pin and hammer move together, the mass would be $10+2$, and the speed of the combined object can be called $v$. 
-
-$$
-m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}
-$$
-
-$$
-(10)(9) = (12)(v)
-$$
-Solving for $v$ we can find, 
-
-$$
-v=\frac{15}{2}
-$$
-So the speed of the pin immediately after impact would be $7.5m/s$.
-
-The pin moves $3cm$ into the ground before coming to rest. Assuming in this model the ground exerts a constant restive force of $R$ newtons
-as the pin is driven down.
-b) Find the value of R
-
-Answer
-
-- Here to find the value of the [[Force|force]], $R$, we can use the force formula, $F=ma$.
-- However we need to firstly find the acceleration of the pin as it slows down. 
-- We can do this by forming a [[Equations of Motion#Equations|suvat]] equation using the values we do have.
-
-$$
-s=0.03m \\
-u=7.5m/s \\
-v=0m/s \\
-a=? \\
-t=N/A
-$$
 
