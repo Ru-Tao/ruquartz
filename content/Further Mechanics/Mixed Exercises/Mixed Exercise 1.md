@@ -291,3 +291,80 @@ a) Calculate the speed of P immediately after the collision.
 >>So the magnitude of impulse exerted by $Q$ on $P$ is $12Ns$
 >>
 
+>[!question]+ Question 7
+> A particle $A$ of mass $m$ is moving with speed $2u$ in a straight line on a smooth horizontal table. It collides with another particle $B$ of mass $km$ which is moving in the same straight line on the table with speed $u$ in the opposite direction to $A$. In the collision, the particles form a single particle which moves with speed $\frac{2}{3}u$ in the original direction of $A$'s motion. Find the value of $k$.
+>
+>>[!todo]- Answer
+>>
+>> 
+>> - Assuming particle A is moving in the positive direction $\rightarrow$, particle $B$ would be moving in the direction $\leftarrow$, as a result the value of $B$'s speed would be $-u$.
+>>- Here we can use the [[Momentum#Conservation of Momentum|conservation of momentum]] formula.
+>>
+>>$$
+>>m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}
+>>$$
+>>- For particle $A$ we have $m_1=m$ and $u_1=2u$
+>>- For particle $B$ we have $m_2 = km$ and $u_2=-u$
+>>- For the right hand side of the formula, as A and B join together, and both move at the same speed of $\frac{2}{3}u$, we would have $(m+km)\frac{2}{3}u$
+>>Plugging in all of these values into the formula we get.
+>>
+>>$$
+>>2mu - kmu = \frac{2}{3}mu+\frac{2}{3}kmu
+>>$$
+>>- Dividing both sides by $mu$ we get 
+>>
+>>$$
+>>2- k = \frac{2}{3}+\frac{2}{3}k
+>>$$
+>>
+>>$$
+>>\frac{4}{3}=\frac{5}{3}k
+>>$$
+>>Solving the equation for k we get
+>>
+>>$$
+>>k=\frac{4}{5}
+>>$$
+
+Question 8
+A metal pin of mass $2kg$ is driven vertically into the ground by a blow from a sledgehammer of mass $10kg$. The hammer falls vertically on to the pin, its speed just before impact being $9m/s$. In a model of the situation it is assumed that, after the impact, the pin and the hammer stay in contact and move together before coming to rest.
+a) Find the speed of the pin immediately after impact.
+Answer
+
+- Here conservation of momentum can be used.
+- For the hammer, $m_1=10$ and $u_1=9$ 
+- For the pin, $m_2=2$ and $u_2=0$ 
+- For the left hand side of the equation, as both the pin and hammer move together, the mass would be $10+2$, and the speed of the combined object can be called $v$. 
+
+$$
+m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}
+$$
+
+$$
+(10)(9) = (12)(v)
+$$
+Solving for $v$ we can find, 
+
+$$
+v=\frac{15}{2}
+$$
+So the speed of the pin immediately after impact would be $7.5m/s$.
+
+The pin moves $3cm$ into the ground before coming to rest. Assuming in this model the ground exerts a constant restive force of $R$ newtons
+as the pin is driven down.
+b) Find the value of R
+
+Answer
+
+- Here to find the value of the [[Force|force]], $R$, we can use the force formula, $F=ma$.
+- However we need to firstly find the acceleration of the pin as it slows down. 
+- We can do this by forming a [[Equations of Motion#Equations|suvat]] equation using the values we do have.
+
+$$
+s=0.03m \\
+u=7.5m/s \\
+v=0m/s \\
+a=? \\
+t=N/A
+$$
+
