@@ -17,12 +17,12 @@
 >>- The mean,$\mu=13.3$ and the variance,$\sigma^2=12.25$
 >>- With this we can create our basic normal distribution for all cases.
 >>$$
->>X \textasciitilde  N(13.3, 12.25)
+>>X \sim  N(13.3, 12.25)
 >>$$
 >>- However as we have a sample size of 50 we have to find the distribution for within the 50. We can call this distribution $\bar{X}$.
 >>
 >>$$
->>\bar{X}\textasciitilde N(13.3,\frac{12.25}{50})
+>>\bar{X} \sim N(13.3,\frac{12.25}{50})
 >>$$
 >>
 >>- As $\bar{X}$ is within the sample size of 50, we must divide our variance, $\sigma^2$, by 50.
@@ -33,6 +33,7 @@
 >>$$
 >>
 >>- We can then compare the value we get, 0.04879, to the significance level.
->>- $0.04879 < 0.05, \text{and is within the critical region, so we have enough evidence to reject} H_0$
+>>$0.04879 < 0.05$
+>>$\text{and is within the critical region, so we have enough evidence to reject } H_0$
 >
 
