@@ -32,6 +32,7 @@
 >>P(X\leq12.48)=0.04879
 >>$$
 >>
+>>- Remember to square root the entire variance from $
 >>- We can then compare the value we get, 0.04879, to the significance level.
 >>$0.04879 < 0.05$
 >>$\text{and is within the critical region, so we have enough evidence to reject } H_0$
