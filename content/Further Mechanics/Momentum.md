@@ -64,8 +64,8 @@ $$m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2}$$
 >> $I = -7$
 >> So the impulse recieved by $P$ has a magnitude of $7Ns$. 
 
-# Momentum as a [[Vector]]
-Both [[Impulse]] and [[Momentum]] are vectors, as a result you can write both the [[Impulse#Impulse momentum principle.|Impulse momentum principle]] and the [[Momentum#Conservation of Momentum|conservation of momentum]] as vector equations. 
+# Momentum as a [[Vectors]]
+Both [[Impulse]] and [[Momentum]] are vectors, as a result you can write both the [[Impulse#Impulse momentum principle.|Impulse momentum principle]] and the [[Momentum#Conservation of Momentum|conservation of momentum]] as [[Vectors#Vector Notation|vector equations]].
 
 >[!question] Example
 >A particle of mass $0.2$kg is moving with the velocity $(10i-5j)m/s$ when it receives an impulse of $(3i-2j)Ns$. Find the new velocity of the particle.
