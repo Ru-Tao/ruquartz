@@ -459,7 +459,7 @@ a) Calculate the speed of P immediately after the collision.
 >>$$
 >> \cos^{-1}(\frac{24}{26})=22.6199
 >>$$
->>- So the angle between the vector $I$ and the line $i$ is $22.6199\textdegree.$    
+>>- So the angle between the vector $I$ and the line $i$ is $22.6199\degree.$    
 
 
 
