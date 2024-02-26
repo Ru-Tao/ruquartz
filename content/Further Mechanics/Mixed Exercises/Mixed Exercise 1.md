@@ -399,62 +399,67 @@ a) Calculate the speed of P immediately after the collision.
 >>
 >>The resistance R could be modelled with varying speed.
 
-Question 9
+>[!question]+ Question 9
+>
 A cricket ball of mass $0.5kg$ is struck by a bat. Immediately before being struck the velocity of the bat is $(-25i)\text{m/s}$. Immediately after being struck the velocity of the ball is $(23i+20j)\text{m/s}$.
-Find the magnitude of magnitude exerted on the ball by the bat and the angle between the impulse and the direction i. 
-
-Answer
-
-- In this question velocity is given to us in [[Vectors#2D Vectors|vector notation]].
-- Despite this the formula for [[Impulse#Impulse momentum principle.|impulse]] remains the same.
-
-$$
-I=mv-mu
-$$
-
-$$
-I=0.5\begin{pmatrix}23\\ 20\end{pmatrix}-(0.5)\begin{pmatrix}-25\\ 0\end{pmatrix}
-$$
-
-$$
-I=0.5\begin{pmatrix}48\\ 20\end{pmatrix}
-$$
-
-$$
-I=\begin{pmatrix}24\\ 10\end{pmatrix}
-$$
-
-- Here we can use the formula for [[Vectors#The magnitude of a vector|the magnitude of the vector]].
-
-$$
-|I|=\sqrt{24^2+10^2}
-$$
-
-$$
-|I|=26
-$$
-- To find the angle between the impulse and direction **i**, is just to find the angle between the impulse vector and the x axis.
-- We can create a triangle with a base of 10, 
-
-```tikz
-\begin{document}
-  \begin{tikzpicture}
-	\draw (0,0) node[anchor=north]{$A$}
-	  -- (12,0) node[anchor=north]{$C$}
-	  -- (12,5) node[anchor=south]{$B$}
-	  -- cycle;
-	\node[label={26} ] at (6,2.5) {};
-	\node[label={24} ] at (6,-1) {};
-	\node[label={10} ] at (12.5, 2) {};
-
-  \end{tikzpicture}
-\end{document}
-```
-- Here we have to find the angle $\angle BAC$, as the line $AB$ is the vector $I$, and $AC$ is the vector $i$, also known as the x axis.
-- Here we can use any trig function to find the angle as we have all 3 sides
-
-
-
+>
+Find the magnitude of impulse exerted on the ball by the bat and the angle between the impulse and the direction i. 
+>
+>>[!todo]- Answer
+>>
+>>- In this question velocity is given to us in [[Vectors#2D Vectors|vector notation]].
+>>- Despite this the formula for [[Impulse#Impulse momentum principle.|impulse]] remains the same.
+>>
+>>$$
+>>I=mv-mu
+>>$$
+>>
+>>$$
+>>I=0.5\begin{pmatrix}23\\ 20\end{pmatrix}-(0.5)\begin{pmatrix}-25\\ 0\end{pmatrix}
+>>$$
+>>
+>>$$
+>>I=0.5\begin{pmatrix}48\\ 20\end{pmatrix}
+>>$$
+>>
+>>$$
+>>I=\begin{pmatrix}24\\ 10\end{pmatrix}
+>>$$
+>>
+>>- Here we can use the formula for [[Vectors#The magnitude of a vector|the magnitude of the vector]].
+>>
+>>$$
+>>|I|=\sqrt{24^2+10^2}
+>>$$
+>>
+>>$$
+>>|I|=26
+>>$$
+>>- To find the angle between the impulse and direction **i**, is just to find the angle between the impulse vector and the x axis.
+>>- We can create a triangle with a base of 10, 
+>>
+>>```tikz
+>>\begin{document}
+>>  \begin{tikzpicture}
+>>	\draw (0,0) node[anchor=north]{$A$}
+>>	  -- (12,0) node[anchor=north]{$C$}
+>>	  -- (12,5) node[anchor=south]{$B$}
+>>	  -- cycle;
+>>	\node[label={26} ] at (6,2.5) {};
+>>	\node[label={24} ] at (6,-1) {};
+>>	\node[label={10} ] at (12.5, 2) {};
+>>
+>>  \end{tikzpicture}
+>>\end{document}
+>>```
+>>- Here we have to find the angle $\angle BAC$, as the line $AB$ is the vector $I$, and $AC$ is the vector $i$, also known as the x axis.
+>>- Here we can use any trig function to find the angle as we have all 3 sides
+>>- I will opt to use $\cos$ since its my favourite. 
+>> 
+>>$$
+>> \cos^{-1}(\frac{24}{26})=22.6199
+>>$$
+>>- So the angle between the vector $I$ and the line $i$ is $22.6199\textdegree.$    
 
 
 
