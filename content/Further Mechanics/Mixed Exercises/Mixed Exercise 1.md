@@ -401,10 +401,10 @@ a) Calculate the speed of P immediately after the collision.
 
 >[!question]+ Question 9
 >
-A cricket ball of mass $0.5kg$ is struck by a bat. Immediately before being struck the velocity of the bat is $(-25i)\text{m/s}$. Immediately after being struck the velocity of the ball is $(23i+20j)\text{m/s}$.
+>A cricket ball of mass $0.5kg$ is struck by a bat. Immediately before being struck the velocity of the bat is $(-25i)\text{m/s}$. Immediately after being struck the velocity of the ball is $(23i+20j)\text{m/s}$.
 >
-Find the magnitude of impulse exerted on the ball by the bat and the angle between the impulse and the direction i. 
->
+>Find the magnitude of impulse exerted on the ball by the bat and the angle between the impulse and the direction i. 
+>>
 >>[!todo]- Answer
 >>
 >>- In this question velocity is given to us in [[Vectors#2D Vectors|vector notation]].
@@ -460,6 +460,7 @@ Find the magnitude of impulse exerted on the ball by the bat and the angle betwe
 >> \cos^{-1}(\frac{24}{26})=22.6199
 >>$$
 >>- So the angle between the vector $I$ and the line $i$ is $22.6199\textdegree.$    
+
 
 
 
