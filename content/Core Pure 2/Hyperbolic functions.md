@@ -1,5 +1,5 @@
 
-- Hyperbolic functions are functions similar to the [[trigonometric functions]], but rather then being based on points on a unit circle like trigonometric functions are, hyperbolic functions are based on points on a hyperbola. 
+- Hyperbolic functions are functions similar to the [[Trigonometric Functions]], but rather then being based on points on a unit circle like trigonometric functions are, hyperbolic functions are based on points on a hyperbola. 
 - The hyperbola has the form $x^2-y^2=1$, similar to the unit circle that has the equation $x^2+y^2=1$. 
 - The Cartesian coordinates for a point on this hyperbola are given by the functions $\cosh{x}$ and $\sinh{x}$.
 
