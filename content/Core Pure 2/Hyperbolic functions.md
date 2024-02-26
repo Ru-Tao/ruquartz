@@ -75,7 +75,7 @@ $$
 >- Defining $\sinh{x}$, we know in exponentials it can be given in the form $\frac{e^{x}+e^{-x}}{2}$
 >- To sketch the graph, you can actually consider $y=cosh{x}$ to be the "**average**" of the $y=e^x$ and $y=e^-x$ graphs.
 >
-![[cosh-e^x-e^-x.png]]
+>![[cosh-e^x-e^-x.png]]
 
 ##### Reciprocal Hyperbolic Functions and definitions
 
