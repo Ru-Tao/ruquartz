@@ -1,5 +1,14 @@
 - The modulus-argument form of a complex number can be used to rewrite the complex number in the exponential form, $z=re^{i\theta}$. 
 
+### Modulus Argument Form
+Any complex number can be written in the terms of its modulus and argument.
+- For a complex number $z$ with modulus $r$ and argument $\theta$. The modulus argument form is:
+
+$$
+z=r(\cos{\theta}+i\sin{\theta})
+$$
+
+
 ### Euler's Relation
 
 $$
@@ -81,3 +90,9 @@ $$
 e^{i\theta}=(1-\frac{\theta^2}{2!}+\frac{\theta^4}{4!}-\frac{\theta^6}{6!}\dots)+ i(\theta+-\frac{\theta^3}{3!}+\frac{\theta^5}{5!}\dots)
 $$
 
+### Multiplying and dividing complex numbers
+For any two complex numbers $z_1$ and $z_2$ in either [[Complex Numbers#Modulus Argument Form]]
+- $|z_{1}z_{2}|=|z_1||z_2|$
+- $\arg{(z_{1}z_{2})}=\arg{(z_1)}+\arg{(z_2)}$
+- $|\frac{z_1}{z_2}|= \frac{|z_1|}{|z_2|}$
+- $\arg{(\frac{z_1}{z_2})}=\arg{(z_1)}-arg{(z_2)}$

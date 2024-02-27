@@ -1,0 +1,30 @@
+You can use [[Complex Numbers#Euler's Relation|Euler's relation]] to find powers of complex numbers that are given in [[Complex Numbers#Modulus Argument Form|Modulus argument form]]. 
+
+> [!info]+ De Moivre's theorem proof 1
+> 
+> $$
+> (r(\cos{\theta}+i\sin{\theta}))^2=(re^{i\theta})^2
+> $$
+>$$
+>(re^{i\theta})\times(re^{i\theta})
+>$$
+> 
+> $$
+>r^2e^{i2\theta}
+>$$ 
+>$$
+>r^2(\cos{2\theta}+i\sin{2\theta})
+>$$
+- This also applies for all other complex numbers in [[Complex Numbers#Modulus Argument Form|modulus argument form]]. 
+This result is also known as **de Moivre's theorem**.
+
+De Moivre's theorem proof 2, using [[Complex Numbers#Euler's Relation|Euler's Relation]]
+
+
+$$
+(r(\cos{\theta}+i\sin{\theta}))^n=(re^{i\theta})^n
+$$
+
+$$
+r^{n}e^{in\theta}
+$$
