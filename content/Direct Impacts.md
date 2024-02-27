@@ -1,0 +1,1 @@
+Direct impacts are a common question type in further mechanics
