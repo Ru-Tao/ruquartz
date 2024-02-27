@@ -2,11 +2,15 @@
 
 $$
 \sec{x}=\frac{1}{\cos{x}}
-$$ $$
+$$
+
+$$
 \text{cosec}{x}=\frac{1}{\sin{x}}
-$$ $$
+$$
+$$
 \cot{x}=\frac{1}{\tan{x}}
-$$ 
+$$
+
 - Secant, Cosecant and Cotagent are all reciprocal trigonometric functions.
 - $\cot{x}$ can also be written as $\frac{cos{x}}{sin{x}}$.
 - To find values for the reciprocal functions on a calculator.
