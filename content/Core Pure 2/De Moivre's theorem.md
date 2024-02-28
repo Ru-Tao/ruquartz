@@ -18,13 +18,30 @@ You can use [[Complex Numbers#Euler's Relation|Euler's relation]] to find powers
 - This also applies for all other complex numbers in [[Complex Numbers#Modulus Argument Form|modulus argument form]]. 
 This result is also known as **de Moivre's theorem**.
 
-De Moivre's theorem proof 2, using [[Complex Numbers#Euler's Relation|Euler's Relation]]
+>[!info] De Moivre's theorem proof 2, using [[Complex Numbers#Euler's Relation|Euler's Relation]]
+>
+>
+>$$
+>(r(\cos{\theta}+i\sin{\theta}))^n=(re^{i\theta})^n
+>$$
+>
+>$$
+>r^{n}e^{in\theta}
+>$$
+>
+>$$
+>r^{n}(\cos{n\theta}+i\sin{n\theta})
+>$$
 
+- You can use [[De Moivre's theorem]] to dervice the trigonometric identities. 
+- Applying the [[Binomial Expansion]] formula to $(\cos{\theta}+i\sin{\theta})^n$ lets you express $\cos(n\theta)$ in terms of $\cos{\theta}$, and lets you express $\sin{(n\theta)}$ in terms of $\sin{\theta}$.
+
+Example 10
+Use de Moivre's theorem to show that
 
 $$
-(r(\cos{\theta}+i\sin{\theta}))^n=(re^{i\theta})^n
+(cos{\theta}+i\sin{\theta})^6=\cos{6\theta}+i\sin{6\theta}
+$$   
 $$
-
-$$
-r^{n}e^{in\theta}
+=\cos^6{\theta}+C^{6}_{1}\cos5{\theta}
 $$

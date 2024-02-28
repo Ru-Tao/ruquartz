@@ -91,8 +91,9 @@ e^{i\theta}=(1-\frac{\theta^2}{2!}+\frac{\theta^4}{4!}-\frac{\theta^6}{6!}\dots)
 $$
 
 ### Multiplying and dividing complex numbers
-For any two complex numbers $z_1$ and $z_2$ in either [[Complex Numbers#Modulus Argument Form]]
+For any two complex numbers $z_1$ and $z_2$ in either [[Complex Numbers#Modulus Argument Form|modulus argument form]].
 - $|z_{1}z_{2}|=|z_1||z_2|$
 - $\arg{(z_{1}z_{2})}=\arg{(z_1)}+\arg{(z_2)}$
 - $|\frac{z_1}{z_2}|= \frac{|z_1|}{|z_2|}$
 - $\arg{(\frac{z_1}{z_2})}=\arg{(z_1)}-arg{(z_2)}$
+
