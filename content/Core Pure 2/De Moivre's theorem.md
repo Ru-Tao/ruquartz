@@ -36,12 +36,20 @@ This result is also known as **de Moivre's theorem**.
 - You can use [[De Moivre's theorem]] to dervice the trigonometric identities. 
 - Applying the [[Binomial Expansion]] formula to $(\cos{\theta}+i\sin{\theta})^n$ lets you express $\cos(n\theta)$ in terms of $\cos{\theta}$, and lets you express $\sin{(n\theta)}$ in terms of $\sin{\theta}$.
 
-Example 10
-Use de Moivre's theorem to show that
 
 $$
-(cos{\theta}+i\sin{\theta})^6=\cos{6\theta}+i\sin{6\theta}
-$$   
+z+\frac{1}{z}=2\cos\theta
 $$
-=\cos^6{\theta}+C^{6}_{1}\cos5{\theta}
+
+$$
+
+z-\frac{1}{z}=2i\sin\theta
+$$
+
+$$
+z^n-\frac{1}{z^n}=2i\sin{n\theta}
+$$
+
+$$
+z^n+\frac{1}{z^n}=2i\cos{n\theta}
 $$
