@@ -97,3 +97,44 @@ For any two complex numbers $z_1$ and $z_2$ in either [[Complex Numbers#Modulus 
 - $|\frac{z_1}{z_2}|= \frac{|z_1|}{|z_2|}$
 - $\arg{(\frac{z_1}{z_2})}=\arg{(z_1)}-arg{(z_2)}$
 
+
+### Trigonometric Identities
+[[De Moivre's theorem]] can be used to also derive the trigonometric identities, by using a [[Binomial Expansion]] with $(\cos{\theta}+i\sin{\theta})^n$, you can;
+- Express $\cos{n\theta}$ in terms of powers of $\cos{\theta}$
+- Express $\sin{n\theta}$ in terms of powers of $\sin{\theta}$
+
+This also lets you find trigonometric identities for $\sin^n{\theta}$ and $\cos^n{\theta}$ in terms of $z$, where $z=\cos{\theta} + i\sin{\theta}$.
+
+$$
+z+\frac{1}{z}=2\cos\theta
+$$
+
+> [!info]- See how
+>
+>$$
+>z+\frac{1}{z}=\cos{\theta}+i\sin{\theta}+\cos{\theta}-i\sin{\theta}=2\cos{\theta}
+>$$
+
+>[!info]- Formula for cos^n
+>
+>$$
+>z^n+\frac{1}{z^n}=2\cos{n\theta}
+>$$
+
+$$
+z-\frac{1}{z}=2i\sin\theta
+$$
+
+> [!info]- See how
+>
+>$$
+>z-\frac{1}{z}=\cos{\theta}+i\sin{\theta}-\cos{\theta}+i\sin{\theta}=2i\sin{\theta}
+>$$
+
+>[!info]- Formula for sin^n
+>
+>$$
+>z^n-\frac{1}{z^n}=2i\sin{n\theta}
+>$$
+
+### Sums of series

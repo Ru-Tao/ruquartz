@@ -1,0 +1,3 @@
+- [ ] Invariant point 
+- [ ] Invariant line
+- [ ] 
